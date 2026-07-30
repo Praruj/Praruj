@@ -14,7 +14,6 @@
 
 I build systems that understand the past, predict the future, and act on it — ML models, time-series pipelines, local LLM integrations, and the FastAPI + Streamlit software that delivers AI to people who actually need it.
 
-Currently at **フクシマガリレイ株式会社**, where my time-series anomaly detection system flags compressor faults and gas leak risks **3–4 days before they occur** — giving operators time to act instead of react.
 
 ---
 

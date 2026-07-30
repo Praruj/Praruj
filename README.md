@@ -14,6 +14,7 @@
 
 I build systems that understand the past, predict the future, and act on it — ML models, time-series pipelines, local LLM integrations, and the FastAPI + Streamlit software that delivers AI to people who actually need it.
 
+Currently at **フクシマガリレイ株式会社**, where my time-series anomaly detection system flags compressor faults and gas leak risks **3–4 days before they occur** — giving operators time to act instead of react.
 
 ---
 
@@ -21,11 +22,15 @@ I build systems that understand the past, predict the future, and act on it — 
 
 ```python
 stack = {
-    "ML / AI":   ["PyTorch", "Scikit-learn", "Local LLMs (Qwen)", "Time Series"],
+    "ML / AI":   [
+                   "Machine Learning", "Deep Learning",
+                   "Search Algorithms", "Genetic Algorithms",
+                   "Time Series", "Local LLMs",
+                 ],
     "Backend":   ["Python", "FastAPI", "MySQL"],
     "UI / Viz":  ["Streamlit"],
     "Cloud":     ["AWS"],
-    "Tools":     ["GitHub", "Jupyter", "Pandas", "NumPy"],
+    "Tools":     ["GitHub", "Jupyter", "Pandas", "NumPy", "PyTorch"],
 }
 ```
 
@@ -33,13 +38,13 @@ stack = {
 
 ### Selected Projects
 
-**🔴 [World Cup 2026 Prediction](https://github.com/PRaruj/worldcup_prediction_2026)**  
+**🔴 [World Cup 2026 Prediction](https://github.com/PRaruj/worldcup_prediction_2026)**
 Monte Carlo simulation of FIFA World Cup 2026. Full Python package with group stage logic, knockout bracket simulation, Wilson confidence intervals, and live bracket tracking.
 - **Brier Score: 0.178** across all group stage matches
 - Spain correctly predicted as tournament winner
 - Bilingual README (EN / 日本語), CI testing, versioned release tag
 
-**☁️ [AWS CLF Study Tool](https://github.com/PRaruj/aws_clf_co2_study_tool)**  
+**☁️ [AWS CLF Study Tool](https://github.com/PRaruj/aws_clf_co2_study_tool)**
 Interactive study tool for AWS Cloud Practitioner certification prep.
 
 ---
@@ -52,6 +57,14 @@ Interactive study tool for AWS Cloud Practitioner certification prep.
 - 🤝 Rotaract Club founder — started during COVID lockdown in 2020 with 30 members, to rebuild communication and leadership among youth when the world went quiet
 - ✍️ Starting to write on Medium — technical experiments and thinking out loud
 - 🌐 [prarujthapa.com.np](https://prarujthapa.com.np)
+
+---
+
+### GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=PRaruj&theme=dark&hide_border=true&background=0d1117&ring=e8a030&fire=e8a030&currStreakLabel=e8a030&sideLabels=8892a4&dates=8892a4&currStreakNum=f0f4ff&sideNums=f0f4ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRaruj&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e8a030&text_color=8892a4&langs_count=6)
 
 ---
 
@@ -84,11 +97,15 @@ Interactive study tool for AWS Cloud Practitioner certification prep.
 
 ```python
 stack = {
-    "ML / AI":   ["PyTorch", "Scikit-learn", "ローカルLLM (Qwen)", "時系列分析"],
+    "ML / AI":    [
+                    "機械学習", "深層学習",
+                    "探索アルゴリズム", "遺伝的アルゴリズム",
+                    "時系列分析", "ローカルLLM",
+                  ],
     "バックエンド": ["Python", "FastAPI", "MySQL"],
     "UI / 可視化": ["Streamlit"],
-    "クラウド":   ["AWS"],
-    "ツール":     ["GitHub", "Jupyter", "Pandas", "NumPy"],
+    "クラウド":    ["AWS"],
+    "ツール":      ["GitHub", "Jupyter", "Pandas", "NumPy", "PyTorch"],
 }
 ```
 
@@ -96,13 +113,13 @@ stack = {
 
 ### 主なプロジェクト
 
-**🔴 [ワールドカップ2026予測](https://github.com/PRaruj/worldcup_prediction_2026)**  
+**🔴 [ワールドカップ2026予測](https://github.com/PRaruj/worldcup_prediction_2026)**
 FIFA ワールドカップ2026のモンテカルロシミュレーション。グループステージロジック、ノックアウトブラケットシミュレーション、ウィルソン信頼区間、ライブ追跡機能を備えたPythonパッケージ。
 - **ブライアースコア: 0.178**（全グループステージ試合）
 - スペインを優勝として正確に予測
 - 日英バイリンガルREADME、CIテスト、バージョンリリース済み
 
-**☁️ [AWS CLF 学習ツール](https://github.com/PRaruj/aws_clf_co2_study_tool)**  
+**☁️ [AWS CLF 学習ツール](https://github.com/PRaruj/aws_clf_co2_study_tool)**
 AWS クラウドプラクティショナー資格対策のインタラクティブ学習ツール。
 
 ---
@@ -115,6 +132,14 @@ AWS クラウドプラクティショナー資格対策のインタラクティ�
 - 🤝 ロータラクトクラブ創設者 — 2020年のコロナ禍のロックダウン中に、コミュニケーションを失った若者のために30名でスタートし、リーダーシップと絆を育む活動を展開
 - ✍️ Mediumでの技術発信を開始予定
 - 🌐 [prarujthapa.com.np](https://prarujthapa.com.np)
+
+---
+
+### GitHubアクティビティ
+
+![GitHub Streak](https://streak-stats.demolab.com?user=PRaruj&theme=dark&hide_border=true&background=0d1117&ring=e8a030&fire=e8a030&currStreakLabel=e8a030&sideLabels=8892a4&dates=8892a4&currStreakNum=f0f4ff&sideNums=f0f4ff)
+
+![使用言語](https://github-readme-stats.vercel.app/api/top-langs/?username=PRaruj&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e8a030&text_color=8892a4&langs_count=6)
 
 ---
 

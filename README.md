@@ -6,7 +6,7 @@
 
 I build systems that understand the past, predict the future, and act on it — ML models, time-series pipelines, local LLM integrations, and the FastAPI + Streamlit software that delivers AI to people who actually need it.
 
-Currently at **フクシマガリレイ株式会社**, where my time-series anomaly detection system flags compressor faults and gas leak risks **3–4 days before they occur** — giving operators time to act instead of react.
+Currently at **フクシマガリレイ株式会社**, where my time-series anomaly detection system flags anamolies **3–4 days before they occur** — giving operators time to act instead of react.
 
 ---
 
@@ -25,6 +25,17 @@ stack = {
     "Tools":     ["GitHub", "Jupyter", "Pandas", "NumPy", "PyTorch"],
 }
 ```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
@@ -55,8 +66,6 @@ Interactive study tool for AWS Cloud Practitioner certification prep.
 ### GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=PRaruj&theme=dark&hide_border=true&background=0d1117&ring=e8a030&fire=e8a030&currStreakLabel=e8a030&sideLabels=8892a4&dates=8892a4&currStreakNum=f0f4ff&sideNums=f0f4ff)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRaruj&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e8a030&text_color=8892a4&langs_count=6&cache_seconds=1800)](https://github.com/PRaruj)
 
 ---
 
@@ -102,6 +111,14 @@ stack = {
     "ツール":      ["GitHub", "Jupyter", "Pandas", "NumPy", "PyTorch"],
 }
 ```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ---
 

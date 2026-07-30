@@ -1,11 +1,3 @@
-<div align="right">
-  <a href="#english">EN</a> ／ <a href="#japanese">日本語</a>
-</div>
-
----
-
-<a name="english"></a>
-
 # Praruj Thapa
 
 **ML & AI Software Developer · Osaka, Japan**
@@ -38,13 +30,13 @@ stack = {
 
 ### Selected Projects
 
-**🔴 [World Cup 2026 Prediction](https://github.com/PRaruj/worldcup_prediction_2026)**
+**🔴 [World Cup 2026 Prediction](https://github.com/PRaruj/worldcup_prediction_2026)**  
 Monte Carlo simulation of FIFA World Cup 2026. Full Python package with group stage logic, knockout bracket simulation, Wilson confidence intervals, and live bracket tracking.
 - **Brier Score: 0.178** across all group stage matches
 - Spain correctly predicted as tournament winner
 - Bilingual README (EN / 日本語), CI testing, versioned release tag
 
-**☁️ [AWS CLF Study Tool](https://github.com/PRaruj/aws_clf_co2_study_tool)**
+**☁️ [AWS CLF Study Tool](https://github.com/PRaruj/aws_clf_co2_study_tool)**  
 Interactive study tool for AWS Cloud Practitioner certification prep.
 
 ---
@@ -64,7 +56,7 @@ Interactive study tool for AWS Cloud Practitioner certification prep.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=PRaruj&theme=dark&hide_border=true&background=0d1117&ring=e8a030&fire=e8a030&currStreakLabel=e8a030&sideLabels=8892a4&dates=8892a4&currStreakNum=f0f4ff&sideNums=f0f4ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRaruj&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e8a030&text_color=8892a4&langs_count=6)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRaruj&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e8a030&text_color=8892a4&langs_count=6&cache_seconds=1800)](https://github.com/PRaruj)
 
 ---
 
@@ -77,11 +69,13 @@ Interactive study tool for AWS Cloud Practitioner certification prep.
 *Open to ML/AI roles, research collaborations, and graduate school opportunities.*
 
 ---
----
 
-<a name="japanese"></a>
+<details>
+<summary>🇯🇵 日本語で読む（クリックして展開）</summary>
 
-# タパ プラルズ
+<br>
+
+## タパ プラルズ
 
 **機械学習・AIソフトウェア開発者 · 大阪、日本**
 
@@ -113,33 +107,25 @@ stack = {
 
 ### 主なプロジェクト
 
-**🔴 [ワールドカップ2026予測](https://github.com/PRaruj/worldcup_prediction_2026)**
+**🔴 [ワールドカップ2026予測](https://github.com/PRaruj/worldcup_prediction_2026)**  
 FIFA ワールドカップ2026のモンテカルロシミュレーション。グループステージロジック、ノックアウトブラケットシミュレーション、ウィルソン信頼区間、ライブ追跡機能を備えたPythonパッケージ。
 - **ブライアースコア: 0.178**（全グループステージ試合）
 - スペインを優勝として正確に予測
 - 日英バイリンガルREADME、CIテスト、バージョンリリース済み
 
-**☁️ [AWS CLF 学習ツール](https://github.com/PRaruj/aws_clf_co2_study_tool)**
+**☁️ [AWS CLF 学習ツール](https://github.com/PRaruj/aws_clf_co2_study_tool)**  
 AWS クラウドプラクティショナー資格対策のインタラクティブ学習ツール。
 
 ---
 
 ### 自己紹介
 
-- 🎓 機械電気システム工学科 — **京都先端科学大学** (2025年卒業)
+- 🎓 機械電気システム工学科 — **京都先端科学大学**（2025年卒業）
 - 🗾 ネパール生まれ → 京都で学ぶ → 大阪で働く
 - 🎙️ 元ポッドキャストホスト（*Guffadi Cast*、2020〜2022年）— データを理解することと同じくらい、人を理解することが大切だから
-- 🤝 ロータラクトクラブ創設者 — 2020年のコロナ禍のロックダウン中に、コミュニケーションを失った若者のために30名でスタートし、リーダーシップと絆を育む活動を展開
+- 🤝 ロータラクトクラブ創設者 — 2020年のコロナ禍に、コミュニケーションを失った若者のために30名でスタートし、リーダーシップと絆を育む活動を展開
 - ✍️ Mediumでの技術発信を開始予定
 - 🌐 [prarujthapa.com.np](https://prarujthapa.com.np)
-
----
-
-### GitHubアクティビティ
-
-![GitHub Streak](https://streak-stats.demolab.com?user=PRaruj&theme=dark&hide_border=true&background=0d1117&ring=e8a030&fire=e8a030&currStreakLabel=e8a030&sideLabels=8892a4&dates=8892a4&currStreakNum=f0f4ff&sideNums=f0f4ff)
-
-![使用言語](https://github-readme-stats.vercel.app/api/top-langs/?username=PRaruj&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e8a030&text_color=8892a4&langs_count=6)
 
 ---
 
@@ -150,3 +136,5 @@ AWS クラウドプラクティショナー資格対策のインタラクティ�
 [![メール](https://img.shields.io/badge/Email-thapa.praruj%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thapa.praruj@gmail.com)
 
 *ML・AI職、研究コラボレーション、大学院進学の機会を積極的に探しています。*
+
+</details>

@@ -52,13 +52,8 @@ Interactive study tool for AWS Cloud Practitioner certification prep.
 
 ---
 
-### A bit about me
+### A bit about me in my portfolio website
 
-- 🎓 B.E. Electrical & Mechanical Systems — **Kyoto University of Advanced Science** (2025)
-- 🗾 Born in Nepal → Studied in Kyoto → Working in Osaka
-- 🎙️ Former podcast host (*Guffadi Cast*, 2020–2022) — because understanding people matters as much as understanding data
-- 🤝 Rotaract Club founder — started during COVID lockdown in 2020 with 30 members, to rebuild communication and leadership among youth when the world went quiet
-- ✍️ Writing essay and articles, published on my portfolio website
 - 🌐 [prarujthapa.com.np](https://prarujthapa.com.np)
 
 ---

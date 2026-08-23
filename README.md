@@ -47,6 +47,11 @@ Monte Carlo simulation of FIFA World Cup 2026. Full Python package with group st
 - Spain correctly predicted as tournament winner
 - Bilingual README (EN / 日本語), CI testing, versioned release tag
 
+**🩸 [ViT Biomedical Fine-Tuning](https://github.com/PRaruj/vit-biomedical-finetuning)**  
+Fine-tuned a Vision Transformer (`google/vit-base-patch16-224`) on 46K+ blood cell microscopy images using Hugging Face `transformers`, classifying cells into 8 types.
+- **98.42% test accuracy**, 98.13% macro F1 across 8 blood cell classes
+- Interactive Gradio demo, deployable to Hugging Face Spaces
+
 **☁️ [AWS CLF Study Tool](https://github.com/PRaruj/aws_clf_co2_study_tool)**  
 Interactive study tool for AWS Cloud Practitioner certification prep.
 
@@ -124,6 +129,11 @@ FIFA ワールドカップ2026のモンテカルロシミュレーション。�
 - **ブライアースコア: 0.178**（全グループステージ試合）
 - スペインを優勝として正確に予測
 - 日英バイリンガルREADME、CIテスト、バージョンリリース済み
+
+**🩸 [ViT医用画像分類](https://github.com/PRaruj/vit-biomedical-finetuning)**  
+Hugging Face `transformers` を用いてVision Transformer（`google/vit-base-patch16-224`）を4万6千枚超の血液細胞顕微鏡画像でファインチューニングし、8種類の細胞を分類。
+- 8クラスの血液細胞分類で**テスト精度98.42%**、マクロF1スコア98.13%を達成
+- Hugging Face Spacesへの展開に対応したインタラクティブなGradioデモ
 
 **☁️ [AWS CLF 学習ツール](https://github.com/PRaruj/aws_clf_co2_study_tool)**  
 AWS クラウドプラクティショナー資格対策のインタラクティブ学習ツール。

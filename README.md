@@ -4,9 +4,9 @@
 
 > *Data is just the world, speaking in numbers. I build systems that listen.*
 
-I build systems that understand the past, predict the future, and act on it — ML models, time-series pipelines, statistical simulations, and the software that delivers results to people who actually need them.
+I build systems that understand the past, predict the future, and act on it — ML models, time-series pipelines, RAG systems, and the software that delivers AI to people who actually need it.
 
-Currently at **フクシマガリレイ株式会社**, applying machine learning and data science to real industrial problems.
+Currently at **フクシマガリレイ株式会社**, where my time-series anomaly detection system catches equipment faults **3–4 days before they occur** — turning noise into decisions operators can act on.
 
 ---
 
@@ -14,29 +14,31 @@ Currently at **フクシマガリレイ株式会社**, applying machine learning
 
 ```python
 stack = {
-    "ML / AI":       [
-                       "Machine Learning", "Deep Learning",
-                       "Scikit-learn", "PyTorch",
-                       "Local LLMs", "Time Series Analysis",
-                     ],
-    "Statistics":    [
-                       "Monte Carlo Simulation",
-                       "Statistical Modeling",
-                       "Probabilistic Forecasting",
-                       "Anomaly Detection",
-                     ],
-    "DSA":           [
-                       "Search Algorithms", "Genetic Algorithms",
-                       "Competitive Programming (Red)",
-                     ],
-    "Engineering":   ["Python", "FastAPI", "Streamlit", "MySQL", "AWS"],
-    "Tools":         ["Pandas", "NumPy", "Jupyter", "GitHub"],
+    "ML / AI":   [
+                   "Machine Learning", "Deep Learning",
+                   "Time Series Analysis", "Anomaly Detection",
+                   "Semantic Search", "Embeddings", "Cosine Similarity",
+                   "Sentence-Transformers", "RAG (Retrieval-Augmented Generation)",
+                   "Local LLMs", "Model Evaluation",
+                   "Search Algorithms", "Genetic Algorithms",
+                 ],
+    "Statistics": [
+                   "Monte Carlo Simulation",
+                   "Probabilistic Forecasting",
+                   "Statistical Modeling",
+                  ],
+    "Backend":   ["Python", "FastAPI", "MySQL", "Caching Strategies"],
+    "UI / Viz":  ["Streamlit", "Gradio"],
+    "Cloud":     ["AWS"],
+    "Tools":     ["PyTorch", "scikit-learn", "Pandas", "NumPy",
+                  "Sentence-Transformers", "Hugging Face", "Jupyter", "GitHub"],
 }
 ```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -44,32 +46,37 @@ stack = {
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
 ### Selected Projects
 
-**🔴 [World Cup 2026 Prediction](https://github.com/PRaruj/worldcup_prediction_2026)**  
-End-to-end tournament forecasting using **Monte Carlo simulation** — a statistical method that models uncertainty across thousands of randomised match outcomes to produce probability distributions rather than single-point predictions.
+**🔴 [World Cup 2026 Prediction](https://github.com/PRaruj/worldcup_prediction_2026)**
+Tournament forecasting engine using **Monte Carlo simulation** — a statistical method that models uncertainty across thousands of randomised outcomes to produce probability distributions, not single-point guesses.
 
-> Monte Carlo methods are not machine learning — they are simulation-based statistical reasoning. This project demonstrates probabilistic thinking: quantifying uncertainty, building confidence intervals, and letting distributions speak rather than point estimates.
+> Monte Carlo methods are not machine learning — they are simulation-based probabilistic reasoning. This project demonstrates that data science is not just about models, but about knowing *which tool* a problem actually needs.
 
 - **Brier Score: 0.178** across all group stage matches
-- Spain correctly predicted as tournament winner  
-- Wilson confidence intervals for match-level uncertainty
-- Live bracket tracking, CI testing, versioned release
-- Bilingual README (EN / 日本語)
-
-**☁️ [AWS CLF Study Tool](https://github.com/PRaruj/aws_clf_co2_study_tool)**  
-Interactive study tool for AWS Cloud Practitioner certification prep.
+- Spain correctly predicted as tournament winner
+- Wilson confidence intervals · CI testing · versioned release · Bilingual README (EN / 日本語)
 
 ---
 
-### Competitive Programming
+**🩸 [ViT Biomedical Fine-Tuning](https://github.com/PRaruj/vit-biomedical-finetuning)**
+Fine-tuned `google/vit-base-patch16-224` on 46K+ blood cell microscopy images using Hugging Face `transformers`, classifying 8 cell types with clinical-grade precision.
 
-I have practiced extensively on competitive programming platforms, including **red-level problems** — algorithmic challenges requiring deep knowledge of data structures, graph theory, dynamic programming, and optimization.
+- **Test accuracy: 98.42%** · Macro F1: 98.13% across all 8 classes
+- Interactive Gradio demo · deployable to Hugging Face Spaces
+- Demonstrates transfer learning and domain adaptation on medical imaging data
 
-This background directly informs how I think about ML systems: computational complexity, search strategies, and efficient data pipelines are not separate from data science — they are what makes it production-ready.
+---
+
+**☁️ [AWS CLF Study Tool](https://github.com/PRaruj/aws_clf_co2_study_tool)**
+Interactive study tool for AWS Cloud Practitioner certification prep. Built with JavaScript, focuses on active recall over passive reading.
+
+---
+
 
 ---
 
@@ -79,7 +86,7 @@ This background directly informs how I think about ML systems: computational com
 - 🗾 Born in Nepal → Studied in Kyoto → Working in Osaka
 - 🎙️ Former podcast host (*Guffadi Cast*, 2020–2022) — because understanding people matters as much as understanding data
 - 🤝 Rotaract Club founder — started during COVID lockdown in 2020 with 30 members, to rebuild communication and leadership among youth when the world went quiet
-- ✍️ Starting to write on Medium — experiments, walkthroughs, and thinking out loud
+- ✍️ Starting to write on Medium — experiments, analysis, and thinking out loud
 - 🌐 [prarujthapa.com.np](https://prarujthapa.com.np)
 
 ---
@@ -107,13 +114,13 @@ This background directly informs how I think about ML systems: computational com
 
 ## タパ プラルズ
 
-**データサイエンティスト · 機械学習・AIソフトウェア開発者 · 大阪、日本**
+**データサイエンティスト · 機械学習・AIエンジニア · 大阪、日本**
 
 > *データとは、数字で語る世界そのものだ。私はそれを聴くシステムを作る。*
 
-過去を理解し、未来を予測し、行動するシステムを構築しています。MLモデル、時系列パイプライン、統計シミュレーション、そして結果を必要な人々に届けるソフトウェアを開発しています。
+過去を理解し、未来を予測し、行動するシステムを構築しています。MLモデル、時系列パイプライン、RAGシステム、そして必要な人々にAIを届けるソフトウェアを開発しています。
 
-現在は**フクシマガリレイ株式会社**にて、機械学習とデータサイエンスを実際の産業課題に応用しています。
+現在は**フクシマガリレイ株式会社**に勤務。時系列異常検知システムにより、設備の故障を**発生の3〜4日前**に検知し、オペレーターが事前に対応できる環境を実現しています。
 
 ---
 
@@ -123,27 +130,29 @@ This background directly informs how I think about ML systems: computational com
 stack = {
     "ML / AI":    [
                     "機械学習", "深層学習",
-                    "Scikit-learn", "PyTorch",
-                    "ローカルLLM", "時系列分析",
+                    "時系列分析", "異常検知",
+                    "セマンティック検索", "埋め込み表現", "コサイン類似度",
+                    "Sentence-Transformers", "RAG（検索拡張生成）",
+                    "ローカルLLM", "モデル評価",
+                    "探索アルゴリズム", "遺伝的アルゴリズム",
                   ],
     "統計・シミュレーション": [
                     "モンテカルロシミュレーション",
-                    "統計モデリング",
                     "確率的予測",
-                    "異常検知",
+                    "統計モデリング",
                   ],
-    "DSA":        [
-                    "探索アルゴリズム", "遺伝的アルゴリズム",
-                    "競技プログラミング（赤レベル）",
-                  ],
-    "開発":       ["Python", "FastAPI", "Streamlit", "MySQL", "AWS"],
-    "ツール":     ["Pandas", "NumPy", "Jupyter", "GitHub"],
+    "バックエンド": ["Python", "FastAPI", "MySQL", "キャッシュ戦略"],
+    "UI / 可視化": ["Streamlit", "Gradio"],
+    "クラウド":    ["AWS"],
+    "ツール":      ["PyTorch", "scikit-learn", "Pandas", "NumPy",
+                    "Sentence-Transformers", "Hugging Face", "Jupyter", "GitHub"],
 }
 ```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -154,25 +163,30 @@ stack = {
 
 ### 主なプロジェクト
 
-**🔴 [ワールドカップ2026予測](https://github.com/PRaruj/worldcup_prediction_2026)**  
-**モンテカルロシミュレーション**を用いたトーナメント予測プロジェクト。モンテカルロ法は機械学習ではなく、確率的シミュレーション手法です。数千通りの試合結果をランダムにシミュレートし、単一の予測ではなく確率分布として結果を表現します。
+**🔴 [ワールドカップ2026予測](https://github.com/PRaruj/worldcup_prediction_2026)**
+**モンテカルロシミュレーション**を用いたトーナメント予測エンジン。機械学習ではなく確率的シミュレーション手法として、数千通りのランダムな試合結果から確率分布を生成します。
+
+> どのツールを使うべきかを判断する力こそ、データサイエンスの本質だと考えています。
 
 - **ブライアースコア: 0.178**（全グループステージ試合）
 - スペインを優勝として正確に予測
-- ウィルソン信頼区間による不確実性の定量化
-- ライブ追跡、CIテスト、バージョンリリース済み
-- 日英バイリンガルREADME
-
-**☁️ [AWS CLF 学習ツール](https://github.com/PRaruj/aws_clf_co2_study_tool)**  
-AWS クラウドプラクティショナー資格対策のインタラクティブ学習ツール。
+- ウィルソン信頼区間 · CIテスト · バージョンリリース · 日英バイリンガルREADME
 
 ---
 
-### 競技プログラミング
+**🩸 [ViT医用画像分類](https://github.com/PRaruj/vit-biomedical-finetuning)**
+Hugging Face `transformers`を用いて`google/vit-base-patch16-224`を4万6千枚超の血液細胞顕微鏡画像でファインチューニングし、8種類の細胞を分類。
 
-競技プログラミングプラットフォームで**赤レベル問題**を含む多数の問題を解いてきました。グラフ理論、動的計画法、最適化など高度なアルゴリズムの知識を持っています。
+- **テスト精度98.42%** · マクロF1スコア98.13%（全8クラス）
+- Hugging Face Spacesへの展開に対応したGradioデモ
 
-このバックグラウンドはMLシステムの設計に直結しています。計算量、探索戦略、効率的なデータパイプラインは、データサイエンスを本番環境で動かすために不可欠な要素です。
+---
+
+**☁️ [AWS CLF 学習ツール](https://github.com/PRaruj/aws_clf_co2_study_tool)**
+AWS クラウドプラクティショナー資格対策のインタラクティブ学習ツール。能動的な記憶定着を重視した設計。
+
+---
+
 
 ---
 
@@ -181,7 +195,7 @@ AWS クラウドプラクティショナー資格対策のインタラクティ�
 - 🎓 機械電気システム工学科 — **京都先端科学大学**（2025年卒業）
 - 🗾 ネパール生まれ → 京都で学ぶ → 大阪で働く
 - 🎙️ 元ポッドキャストホスト（*Guffadi Cast*、2020〜2022年）
-- 🤝 ロータラクトクラブ創設者 — 2020年コロナ禍に30名でスタート
+- 🤝 ロータラクトクラブ創設者 — 2020年コロナ禍に30名でスタート、若者のコミュニティ再建を目指して
 - ✍️ Mediumでの技術発信を開始予定
 - 🌐 [prarujthapa.com.np](https://prarujthapa.com.np)
 

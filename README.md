@@ -1,7 +1,7 @@
 <div align="right">
   <b>🌐 Language:</b>
-  <a href="#english"><img src="https://img.shields.io/badge/Language-English-blue?style=flat-square&logo=googletranslate&logoColor=white" alt="English"/></a>
-  <a href="#japanese"><img src="https://img.shields.io/badge/言語-日本語-red?style=flat-square&logo=googletranslate&logoColor=white" alt="Japanese"/></a>
+  <a href="#user-content-english"><img src="https://img.shields.io/badge/Language-English-blue?style=flat-square&logo=googletranslate&logoColor=white" alt="English"/></a>
+  <a href="#user-content-japanese"><img src="https://img.shields.io/badge/言語-日本語-red?style=flat-square&logo=googletranslate&logoColor=white" alt="Japanese"/></a>
 </div>
 
 <div align="center">
@@ -30,7 +30,7 @@
 - **所属**: フクシマガリレイ株式会社（時系列異常検知システムを開発。設備の故障兆候を**3〜4日前**に検知し、未然防止に貢献）
 - **専門**: 時系列予測・異常検知、Vision Transformer (ViT) による画像分類、モンテカルロシミュレーション、RAG・ローカルLLM構築
 - **学歴**: 京都先端科学大学（工学部 機械電気システム工学科 2025年卒）
-- 📄 [詳しい日本語プロフィールと各プロジェクトの解説はこちら（下部へジャンプ）](#japanese)
+- 📄 [詳しい日本語プロフィールと各プロジェクトの解説はこちら（下部へジャンプ）](#user-content-japanese)
 <hr>
 </details>
 
@@ -143,7 +143,7 @@ stack = {
 ## 🇯🇵 日本語プロフィール (Japanese Profile)
 
 <div align="right">
-  <a href="#english">⬆️ 英語に戻る (Back to English)</a>
+  <a href="#user-content-english">⬆️ 英語に戻る (Back to English)</a>
 </div>
 
 ### タパ プラルズ (Praruj Thapa)

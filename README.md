@@ -132,7 +132,7 @@ stack = {
 ## 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PRaruj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=PRaruj&theme=dark&hide_border=true&background=0d1117&ring=e8a030&fire=e8a030&currStreakLabel=e8a030&sideLabels=8892a4&dates=8892a4&currStreakNum=f0f4ff&sideNums=f0f4ff" alt="GitHub Streak" />
 </div>
 
 ---

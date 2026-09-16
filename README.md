@@ -20,9 +20,9 @@
 
 </div>
 
-<!-- TOP JAPANESE EXPANDER (1-Click Read in Japanese without scrolling) -->
+<!-- TOP JAPANESE EXPANDER -->
 <details id="top-japanese-summary">
-<summary><b>🇯🇵 日本語でサクッと読む（クリックして展開 / Click to view quick Japanese summary）</b></summary>
+<summary><b>🇯🇵 日本語でサクッと読む（クリックして展開 / Click for quick Japanese summary）</b></summary>
 <br>
 
 > **「データとは、数字で語る世界そのものだ。私はそれに耳を傾けるシステムを作る。」**
@@ -42,31 +42,33 @@ I design and deploy AI systems that **understand the past, predict the future, a
 
 - 🏭 **Production ML at Scale:** At **Fukushima Galilei Co., Ltd.**, engineered an end-to-end time-series anomaly detection pipeline that flags critical equipment failures **3–4 days in advance**, turning noisy sensor streams into proactive, operator-ready interventions.
 - 🎯 **Core Competencies:** Time-Series Forecasting · Vision Transformers (ViT) · Probabilistic Modeling & Simulation · Production RAG & Local LLMs.
-- 🤝 Open to **AI/ML Engineering & Data Science roles, research collaborations, and graduate study opportunities**.
+- 🤝 **Open to:** AI/ML Engineering & Data Science roles, research collaborations, and graduate study opportunities.
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ The Tech Stack
 
 ```python
-stack = {
-    "ML / Deep Learning": [
-        "Time-Series Anomaly Detection", "Vision Transformers (ViT)",
-        "Sentence-Transformers", "RAG (Retrieval-Augmented Generation)",
-        "Local LLMs", "Semantic Search", "Cosine Similarity", "Model Evaluation"
-    ],
-    "Statistics & Simulation": [
-        "Monte Carlo Simulation", "Probabilistic Forecasting",
-        "Statistical Modeling", "Wilson Confidence Intervals"
-    ],
-    "Backend & APIs": [
-        "Python", "FastAPI", "MySQL", "Caching Architectures", "REST APIs"
-    ],
-    "Frameworks & Tooling": [
-        "PyTorch", "Hugging Face", "scikit-learn", "Pandas", "NumPy",
-        "AWS (CLF)", "Docker", "Streamlit", "Gradio", "Git / GitHub Actions"
-    ]
-}
+class MLEngineer:
+    def __init__(self):
+        self.stack = {
+            "ML_Deep_Learning": [
+                "Time-Series Anomaly Detection", "Vision Transformers (ViT)",
+                "Sentence-Transformers", "RAG (Retrieval-Augmented Generation)",
+                "Local LLMs", "Semantic Search", "Cosine Similarity", "Model Evaluation"
+            ],
+            "Statistics_Simulation": [
+                "Monte Carlo Simulation", "Probabilistic Forecasting",
+                "Statistical Modeling", "Wilson Confidence Intervals"
+            ],
+            "Backend_APIs": [
+                "Python", "FastAPI", "MySQL", "Caching Architectures", "REST APIs"
+            ],
+            "Frameworks_Tooling": [
+                "PyTorch", "Hugging Face", "scikit-learn", "Pandas", "NumPy",
+                "AWS (CLF)", "Docker", "Streamlit", "Gradio", "Git / GitHub Actions"
+            ]
+        }
 ```
 
 ---
@@ -79,28 +81,26 @@ stack = {
       <h3>🔴 <a href="https://github.com/PRaruj/worldcup_prediction_2026">World Cup 2026 Prediction Engine</a></h3>
       <p>Tournament forecasting engine using <b>Monte Carlo simulation</b> across 10,000+ stochastic scenarios to yield probability distributions instead of naive single-point guesses.</p>
       <ul>
-        <li>📊 <b>Brier Score:</b> <code>0.178</code> across all group stage matches</li>
-        <li>🏆 <b>Validation:</b> Accurately forecast Spain as tournament champion</li>
-        <li>⚙️ Wilson confidence intervals · Automated CI test suite · Bilingual docs</li>
+        <li>📊 <b>Brier Score:</b> <code>0.178</code> (Group stage)</li>
+        <li>🏆 <b>Validation:</b> Accurately forecast Spain as champion</li>
+        <li>⚙️ Wilson confidence intervals · Automated CI · Bilingual docs</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/Simulation-Monte_Carlo-1E7E34?style=flat-square" alt="Monte Carlo"/>
-        <img src="https://img.shields.io/badge/Scipy-Statistics-0054A6?style=flat-square" alt="Scipy"/>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>🩸 <a href="https://github.com/PRaruj/vit-biomedical-finetuning">ViT Biomedical Image Classifier</a></h3>
       <p>Domain-adapted and fine-tuned <code>google/vit-base-patch16-224</code> on <b>46,000+ microscopic blood cell images</b> across 8 cell subtypes with diagnostic precision.</p>
       <ul>
-        <li>🎯 <b>Test Accuracy:</b> <code>98.42%</code> · <b>Macro F1:</b> <code>98.13%</code></li>
-        <li>🔬 Solved multi-class clinical imbalance via transfer learning</li>
-        <li>⚡ Interactive Gradio app configured for Hugging Face Spaces</li>
+        <li>🎯 <b>Test Accuracy:</b> <code>98.42%</code></li>
+        <li>📈 <b>Macro F1:</b> <code>98.13%</code></li>
+        <li>⚡ Interactive Gradio app on Hugging Face Spaces</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-        <img src="https://img.shields.io/badge/Hugging_Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
-        <img src="https://img.shields.io/badge/Demo-Gradio-FF7C00?style=flat-square" alt="Gradio"/>
+        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
       </p>
     </td>
   </tr>
@@ -122,10 +122,10 @@ stack = {
 ## 🧭 About & Journey
 
 - 🎓 **Education:** B.E. in Electrical & Mechanical Systems — Kyoto University of Advanced Science (2025).
-- 🗾 **Origin & Path:** Born in Nepal 🇳🇵 ➔ Studied engineering in Kyoto ⛩️ ➔ Building production ML in Osaka 🏙️.
+- 🗾 **Path:** Born in Nepal 🇳🇵 ➔ Studied engineering in Kyoto ⛩️ ➔ Building production ML in Osaka 🏙️.
 - 🎙️ **Communication:** Former host of the *Guffadi Cast* podcast (2020–2022) — because solving data problems begins with listening to human needs.
-- 🤝 **Leadership:** Founded a 30-member Rotaract Club in 2020 during lockdown to revitalize youth collaboration and community outreach.
-- ✍️ **Writing:** Documenting machine learning experiments, research breakdowns, and analyses on my [portfolio blog](https://www.prarujthapa.com.np/articles/).
+- 🤝 **Leadership:** Founded a 30-member Rotaract Club in 2020 during lockdown to revitalize youth collaboration.
+- ✍️ **Writing:** Documenting machine learning experiments and research on my [portfolio blog](https://www.prarujthapa.com.np/articles/).
 
 ---
 

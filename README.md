@@ -75,8 +75,8 @@ class PrarujThapa(MLEngineer, DataScientist):
             "PyTorch", "Hugging Face", "Docker", "AWS (CLF)", 
             "Git / GitHub Actions", "Streamlit", "Gradio"
         ]
+```
 
----
 
 ## 🔬 Featured Projects
 

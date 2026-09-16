@@ -54,26 +54,32 @@ class PrarujThapa(MLEngineer, DataScientist):
         self.languages = [
             "Python", "SQL",
         ]
-        
+
         self.machine_learning_deep_learning = [
-            "Machine Learning", "Deep Learning", "Computer Vision", "NLP",
-            "Time-Series Anomaly Detection", "Vision Transformers (ViT)",
-            "RAG (Retrieval-Augmented Generation)", "Local LLMs"
+            "Machine Learning", "Deep Learning","Computer Vision",
+            "NLP", "Time-Series","Vision Transformers (ViT)",
         ]
-        
+
+        self.generative_ai_llms = [
+            "Generative AI","LangChain",
+            "RAG (Retrieval-Augmented Generation)", "Local LLMs",
+        ]
+
         self.data_science_analytics = [
             "Exploratory Data Analysis (EDA)", "Data Visualization",
-            "Monte Carlo Simulation", "Statistical Modeling",
-            "Pandas", "NumPy", "scikit-learn"
+            "Monte Carlo Simulation","Statistical Modeling",
+            "Pandas", "NumPy", "scikit-learn",
         ]
-        
+
         self.databases_backend = [
-            "MySQL", "Relational Databases", "FastAPI", "REST APIs"
+            "MySQL","Relational Databases",
+            "FastAPI","REST APIs",
         ]
-        
+
         self.mlops_deployment = [
-            "PyTorch", "Hugging Face", "Docker", "AWS (CLF)", 
-            "Git / GitHub Actions", "Streamlit", "Gradio"
+            "PyTorch","Hugging Face",
+            "Docker","AWS","Git / GitHub Actions",
+            "Streamlit","Gradio",
         ]
 ```
 

@@ -49,28 +49,32 @@ I design and deploy AI systems that **understand the past, predict the future, a
 ## 🛠️ Technical Stack
 
 ```python
-class PrarujThapa(MLEngineer):
+class PrarujThapa(MLEngineer, DataScientist):
     def __init__(self):
-        self.ml_deep_learning = [
+        self.languages = [
+            "Python", "SQL",
+        ]
+        
+        self.machine_learning_deep_learning = [
+            "Machine Learning", "Deep Learning", "Computer Vision", "NLP",
             "Time-Series Anomaly Detection", "Vision Transformers (ViT)",
-            "Sentence-Transformers", "RAG (Retrieval-Augmented Generation)",
-            "Local LLMs", "Semantic Search", "Cosine Similarity", "Model Evaluation"
+            "RAG (Retrieval-Augmented Generation)", "Local LLMs"
         ]
         
-        self.statistics_simulation = [
-            "Monte Carlo Simulation", "Probabilistic Forecasting",
-            "Statistical Modeling", "Wilson Confidence Intervals"
+        self.data_science_analytics = [
+            "Exploratory Data Analysis (EDA)", "Data Visualization",
+            "Monte Carlo Simulation", "Statistical Modeling",
+            "Pandas", "NumPy", "scikit-learn"
         ]
         
-        self.backend_apis = [
-            "Python", "FastAPI", "MySQL", "Caching Architectures", "REST APIs"
+        self.databases_backend = [
+            "MySQL", "Relational Databases", "FastAPI", "REST APIs"
         ]
         
-        self.frameworks_tooling = [
-            "PyTorch", "Hugging Face", "scikit-learn", "Pandas", "NumPy",
-            "AWS (CLF)", "Docker", "Streamlit", "Gradio", "Git / GitHub Actions"
+        self.mlops_deployment = [
+            "PyTorch", "Hugging Face", "Docker", "AWS (CLF)", 
+            "Git / GitHub Actions", "Streamlit", "Gradio"
         ]
-```
 
 ---
 

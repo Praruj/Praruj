@@ -1,5 +1,4 @@
 <div align="right">
-  <b>🌐 Language:</b>
   <a href="#user-content-english"><img src="https://img.shields.io/badge/Language-English-blue?style=flat-square&logo=googletranslate&logoColor=white" alt="English"/></a>
   <a href="#user-content-japanese"><img src="https://img.shields.io/badge/言語-日本語-red?style=flat-square&logo=googletranslate&logoColor=white" alt="Japanese"/></a>
 </div>
@@ -8,128 +7,98 @@
 
 # Praruj Thapa · タパ プラルズ
 
-### **AI/ML Engineer | Data Scientist**  
-📍 Osaka, Japan · 🎓 Kyoto University of Advanced Science
+**AI/ML Engineer · Time-series & sensor ML · Computer Vision**<br>
+📍 Osaka, Japan · Fluent in English & 日本語
 
-> *"Data is just the world, speaking in numbers. I build systems that listen."*
+> *"All models are wrong, but some are useful."* — George Box
 
-[![Website](https://img.shields.io/badge/Portfolio-prarujthapa.com.np-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://prarujthapa.com.np/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Praruj_Thapa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prarujthapa)
-[![GitHub](https://img.shields.io/badge/GitHub-PRaruj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PRaruj)
-[![Articles](https://img.shields.io/badge/Articles-Portfolio_Blog-0D9488?style=for-the-badge&logo=readme&logoColor=white)](https://www.prarujthapa.com.np/articles/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-prarujthapa.com.np-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://prarujthapa.com.np/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Praruj_Thapa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praruj-thapa/)
+[![Articles](https://img.shields.io/badge/Writing-Articles-0D9488?style=for-the-badge&logo=readme&logoColor=white)](https://www.prarujthapa.com.np/articles/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thapa.praruj@gmail.com)
+
+| ⏱️ **3–4 days** | 🫀 **92.7%** | 🩸 **98.4%** | 🏆 **0.178** |
+|:---:|:---:|:---:|:---:|
+| early warning of equipment failure in production | stress detection on people a model never saw | ViT blood-cell accuracy, 8 classes | Brier score, World Cup 2026 forecasts |
 
 </div>
 
-<!-- TOP JAPANESE EXPANDER (1-Click Read in Japanese without scrolling) -->
-<details id="top-japanese-summary">
-<summary><b>🇯🇵 日本語でサクッと読む（クリックして展開 / Click to view quick Japanese summary）</b></summary>
-<br>
-
-> **「データとは、数字で語る世界そのものだ。私はそれに耳を傾けるシステムを作る。」**
-
-- **所属**: フクシマガリレイ株式会社（時系列異常検知システムを開発。設備の故障兆候を**3〜4日前**に検知し、未然防止に貢献）
-- **専門**: 時系列予測・異常検知、Vision Transformer (ViT) による画像分類、モンテカルロシミュレーション、RAG・ローカルLLM構築
-- **学歴**: 京都先端科学大学（工学部 機械電気システム工学科 2025年卒）
-- 📄 [詳しい日本語プロフィールと各プロジェクトの解説はこちら（下部へジャンプ）](#user-content-japanese)
-<hr>
-</details>
-
 <div id="english"></div>
 
-## ⚡ Overview
+## 💼 What I do
 
-I design and deploy AI systems that **understand the past, predict the future, and take action** — bridging the gap between raw research and production engineering.
+I turn **noisy real-world signals into decisions people can trust**: from industrial sensor streams
+at work to physiological signals and images in my own projects. I care as much about *honest
+evaluation* as about the model, and I ship tested, reproducible code.
 
-- 🏭 **Production ML at Scale:** At **Fukushima Galilei Co., Ltd.**, engineered an end-to-end time-series anomaly detection pipeline that flags critical equipment failures **3–4 days in advance**, turning noisy sensor streams into proactive, operator-ready interventions.
-- 🎯 **Core Competencies:** Time-Series Forecasting · Vision Transformers (ViT) · Probabilistic Modeling & Simulation · Production RAG & Local LLMs.
-- 🤝 Open to **AI/ML Engineering & Data Science roles, research collaborations, and graduate study opportunities**.
+- 🏭 **Production:** At **Fukushima Galilei Co., Ltd.** I built an end-to-end time-series anomaly
+  detection pipeline that flags critical equipment failures **3–4 days in advance**.
+- 🎯 **Focus:** time-series & sensor ML · computer vision with transformers · probabilistic modelling ·
+  RAG & local LLMs.
+- 🤝 **Open to** AI/ML engineering and data-science roles, research collaborations and graduate study.
 
 ---
 
-## 🛠️ Technical Stack
-
-```python
-class PrarujThapa(MLEngineer, DataScientist):
-    def __init__(self):
-        self.languages = [
-            "Python", "SQL",
-        ]
-
-        self.machine_learning_deep_learning = [
-            "Machine Learning", "Deep Learning","Computer Vision",
-            "NLP", "Time-Series","Vision Transformers (ViT)",
-        ]
-
-        self.generative_ai_llms = [
-            "Generative AI","LangChain",
-            "RAG (Retrieval-Augmented Generation)", "Local LLMs",
-        ]
-
-        self.data_science_analytics = [
-            "Exploratory Data Analysis (EDA)", "Data Visualization",
-            "Monte Carlo Simulation","Statistical Modeling",
-            "Pandas", "NumPy", "scikit-learn",
-        ]
-
-        self.databases_backend = [
-            "MySQL","Relational Databases",
-            "FastAPI","REST APIs",
-        ]
-
-        self.mlops_deployment = [
-            "PyTorch","Hugging Face",
-            "Docker","AWS","Git / GitHub Actions",
-            "Streamlit","Gradio",
-        ]
-```
-
-
-## 🔬 Featured Projects
+## 🔬 Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔴 <a href="https://github.com/PRaruj/worldcup_prediction_2026">World Cup 2026 Prediction Engine</a></h3>
-      <p>Tournament forecasting engine using <b>Monte Carlo simulation</b> across 10,000+ stochastic scenarios to yield probability distributions instead of naive single-point guesses.</p>
+      <h3>🫀 <a href="https://github.com/Praruj/stress-detection">Stress Detection from Wearable Sensors</a></h3>
+      <p>CNN-LSTM and a <b>hybrid deep + physiological-feature model</b> on chest ECG, EDA and breathing (WESAD), evaluated <b>leave-one-subject-out</b>, so every result is on an unseen person.</p>
       <ul>
-        <li>📊 <b>Brier Score:</b> <code>0.178</code> across all group stage matches</li>
-        <li>🏆 <b>Validation:</b> Accurately forecast Spain as tournament champion</li>
-        <li>⚙️ Wilson confidence intervals · Automated CI test suite · Bilingual docs</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Simulation-Monte_Carlo-1E7E34?style=flat-square" alt="Monte Carlo"/>
-        <img src="https://img.shields.io/badge/Scipy-Statistics-0054A6?style=flat-square" alt="Scipy"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🩸 <a href="https://github.com/PRaruj/vit-biomedical-finetuning">ViT Biomedical Image Classifier</a></h3>
-      <p>Domain-adapted and fine-tuned <code>google/vit-base-patch16-224</code> on <b>46,000+ microscopic blood cell images</b> across 8 cell subtypes with diagnostic precision.</p>
-      <ul>
-        <li>🎯 <b>Test Accuracy:</b> <code>98.42%</code> · <b>Macro F1:</b> <code>98.13%</code></li>
-        <li>🔬 Solved multi-class clinical imbalance via transfer learning</li>
-        <li>⚡ Interactive Gradio app configured for Hugging Face Spaces</li>
+        <li>📊 <b>92.7%</b> stress detection · 4-state accuracy <b>19% → 83%</b> vs. my first version</li>
+        <li>🧪 Ablation study, 5-seed ensembles, honest validation-vs-test reporting</li>
+        <li>⚙️ pytest + GitHub Actions CI · one-click Colab reproduction</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-        <img src="https://img.shields.io/badge/Hugging_Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+        <img src="https://img.shields.io/badge/Time--Series-CNN--LSTM-6E40C9?style=flat-square" alt="CNN-LSTM"/>
+        <img src="https://img.shields.io/badge/CI-tested-2EA44F?style=flat-square&logo=githubactions&logoColor=white" alt="CI"/>
+      </p>
+      <p><a href="https://www.prarujthapa.com.np/stress/">Case study ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🩸 <a href="https://github.com/PRaruj/vit-biomedical-finetuning">ViT Biomedical Image Classifier</a></h3>
+      <p>Fine-tuned <code>google/vit-base-patch16-224</code> on <b>46,000+ microscopy images</b> of blood cells across 8 subtypes.</p>
+      <ul>
+        <li>🎯 <b>Test accuracy</b> <code>98.42%</code> · <b>Macro-F1</b> <code>98.13%</code></li>
+        <li>🔬 Handled multi-class clinical imbalance with transfer learning</li>
+        <li>⚡ Interactive Gradio app for Hugging Face Spaces</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+        <img src="https://img.shields.io/badge/Hugging_Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
         <img src="https://img.shields.io/badge/Demo-Gradio-FF7C00?style=flat-square" alt="Gradio"/>
       </p>
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <h3>👁️ <a href="https://github.com/Praruj/vision-transformer-projects">Vision Transformer (ViT) Explorations</a></h3>
-      <p>A repository demonstrating the architecture, fine-tuning, and application of transformer models for complex computer vision tasks.</p>
+    <td width="50%" valign="top">
+      <h3>🏆 <a href="https://github.com/PRaruj/worldcup_prediction_2026">World Cup 2026 Prediction Engine</a></h3>
+      <p>Tournament forecasting with <b>Monte Carlo simulation</b> over 10,000+ scenarios, producing probability distributions instead of single-point guesses.</p>
       <ul>
-        <li>🧠 <b>Knowledge Distillation:</b> Boosted baseline ViT accuracy from <code>11.6%</code> to <code>37.6%</code> (37 classes) by distilling soft labels from a large pretrained teacher model.</li>
-        <li>🦺 <b>DETR Object Detection:</b> Fine-tuned a DETR model (ResNet-50 backbone) for hardhat detection, achieving a final training loss of <code>1.35</code> using bipartite matching (no NMS required).</li>
-        <li>⚡ <b>Interactive Deployment:</b> Both models deployed as zero-install web applications via Gradio and Hugging Face Spaces.</li>
+        <li>📊 <b>Brier score</b> <code>0.178</code> across group-stage matches</li>
+        <li>🏆 Forecast Spain as champion</li>
+        <li>⚙️ Wilson confidence intervals · automated CI · bilingual docs</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Simulation-Monte_Carlo-1E7E34?style=flat-square" alt="Monte Carlo"/>
+      </p>
+      <p><a href="https://www.prarujthapa.com.np/worldcup/worldcup.html">Live demo ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👁️ <a href="https://github.com/Praruj/vision-transformer-projects">Vision Transformer Explorations</a></h3>
+      <p>Transformer architectures for detection and classification, deployed as zero-install web apps.</p>
+      <ul>
+        <li>🧠 <b>Knowledge distillation:</b> ViT accuracy <code>11.6%</code> → <code>37.6%</code> (37 classes)</li>
+        <li>🦺 <b>DETR</b> hardhat detection, final training loss <code>1.35</code>, no NMS</li>
+        <li>⚡ Both models on Gradio / Hugging Face Spaces</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Computer_Vision-Transformers-4B0082?style=flat-square" alt="Computer Vision"/>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-        <img src="https://img.shields.io/badge/Model_Compression-Knowledge_Distillation-008080?style=flat-square" alt="Knowledge Distillation"/>
+        <img src="https://img.shields.io/badge/Knowledge_Distillation-008080?style=flat-square" alt="Knowledge Distillation"/>
       </p>
     </td>
   </tr>
@@ -137,61 +106,65 @@ class PrarujThapa(MLEngineer, DataScientist):
 
 ---
 
-## 🧭 About & Journey
+## 🛠️ Tech stack
 
-- 🎓 **Education:** B.E. in Electrical & Mechanical Systems — Kyoto University of Advanced Science (2025).
-- 🗾 **Origin & Path:** Born in Nepal 🇳🇵 ➔ Studied engineering in Kyoto ⛩️ ➔ Building production ML in Osaka 🏙️.
-- 🎙️ **Communication:** Former host of the *Guffadi Cast* podcast (2020–2022) — because solving data problems begins with listening to human needs.
-- 🤝 **Leadership:** Founded a 30-member Rotaract Club in 2020 during lockdown to revitalize youth collaboration and community outreach.
-- ✍️ **Writing:** Documenting machine learning experiments, research breakdowns, and analyses on my [portfolio blog](https://www.prarujthapa.com.np/articles/).
+| Area | Tools |
+|---|---|
+| **Languages** | Python · SQL |
+| **ML / DL** | PyTorch · scikit-learn · Hugging Face · time-series · computer vision · NLP |
+| **GenAI** | LangChain · RAG · local LLMs |
+| **Data** | pandas · NumPy · SciPy · statistical modelling · Monte Carlo simulation |
+| **Backend & apps** | FastAPI · REST APIs · MySQL · Streamlit · Gradio |
+| **MLOps** | Docker · AWS · Git · GitHub Actions · pytest |
+
+<sub>☁️ AWS Certified AI Practitioner (2026)</sub>
 
 ---
 
-## 📈 GitHub Metrics
+## 🧭 About
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PRaruj&theme=dark&hide_border=true&background=0d1117&ring=e8a030&fire=e8a030&currStreakLabel=e8a030&sideLabels=8892a4&dates=8892a4&currStreakNum=f0f4ff&sideNums=f0f4ff" alt="GitHub Streak" />
-</div>
+- 🎓 **B.E. Electrical & Mechanical Systems**, Kyoto University of Advanced Science (2025)
+- 🗾 Born in Nepal 🇳🇵 → studied engineering in Kyoto ⛩️ → building production ML in Osaka 🏙️
+- 🎙️ Former host of the *Guffadi Cast* podcast (2020–2022) · 🤝 founded a 30-member Rotaract Club (2020)
+- ✍️ I write about ML experiments and what they taught me on my [blog](https://www.prarujthapa.com.np/articles/), most recently
+  [*Detecting Stress from Wearable Sensors*](https://www.prarujthapa.com.np/stress/) and
+  [*Why Predictive Maintenance Models Fail Without Domain Constraints*](https://www.prarujthapa.com.np/articles/predictive-maintenance-domain-constraints.html)
 
 ---
 
 <div id="japanese"></div>
 
-## 🇯🇵 日本語プロフィール (Japanese Profile)
+## 🇯🇵 日本語プロフィール
 
-<div align="right">
-  <a href="#user-content-english">⬆️ 英語に戻る (Back to English)</a>
-</div>
+<div align="right"><a href="#user-content-english">⬆️ English</a></div>
 
-### タパ プラルズ (Praruj Thapa)
-**AI/MLエンジニア | データサイエンティスト · 大阪**
+**タパ プラルズ (Praruj Thapa)** · AI/MLエンジニア · 大阪
 
-> *「データとは、数字で語る世界そのものだ。私はそれを聴くシステムを作る。」*
+- **所属**: フクシマガリレイ株式会社（時系列異常検知システムを開発。設備の故障兆候を**3〜4日前**に検知）
+- **専門**: 時系列・センサーデータの機械学習、Vision Transformer、モンテカルロシミュレーション、RAG・ローカルLLM
+- **学歴**: 京都先端科学大学 工学部 機械電気システム工学科（2025年卒）
 
-過去を理解し、未来を予測し、行動へとつなげるシステムを構築しています。MLモデル、時系列パイプライン、RAGシステム、そして現場で本当に役立つAIソフトウェアの開発に注力しています。
+> *「すべてのモデルは間違っているが、中には役に立つものもある。」* — ジョージ・ボックス
+
+ノイズの多い現実のデータを、信頼できる判断へと変えるシステムを作っています。モデルだけでなく、正直な評価と再現可能でテストされたコードを重視しています。
 
 #### 💼 職務実績
-- **フクシマガリレイ株式会社**: 時系列異常検知システムの開発・運用。産業用冷凍設備の故障予兆を**発生の3〜4日前**に検知し、オペレーターが事前に対処できるプロアクティブな保全体制を実現。
+- **フクシマガリレイ株式会社**: 時系列異常検知パイプラインを開発。産業用冷凍設備の故障予兆を**3〜4日前**に検知し、事前対応を可能に。
 
 #### 🔬 主なプロジェクト
-1. **🔴 [ワールドカップ2026予測エンジン](https://github.com/PRaruj/worldcup_prediction_2026)**  
-   10,000回以上のモンテカルロシミュレーションを用いた確率的トーナメント予測。単一の当て推量ではなく、不確実性を織り込んだ確率分布を算出。（ブライアースコア: `0.178` / スペイン優勝を予測的中）
-2. **🩸 [ViT 血液細胞画像分類](https://github.com/PRaruj/vit-biomedical-finetuning)**  
-   4万6千枚超の血液顕微鏡画像を用いて `google/vit-base-patch16-224` をファインチューニング。全8クラスで**精度98.42%・マクロF1 98.13%**を達成。Hugging Face Spaces対応Gradioデモ付き。
-3. **👁️ [Vision Transformer (ViT) プロジェクト](https://github.com/Praruj/vision-transformer-projects)**  
-   - **知識蒸留**: 事前学習済みの教師モデルからのソフトラベル抽出により、ベースラインViTの精度を `11.6%` から `37.6%` (全37クラス)へと大幅に向上。
-   - **DETR 物体検出**: NMS不要のハンガリーアルゴリズム(二部マッチング)を用いたDETRモデルをヘルメット検出タスク向けにファインチューニング。最終学習Loss `1.35`。
+1. **🫀 [ウェアラブルセンサーによるストレス検出](https://github.com/Praruj/stress-detection)**: 胸部のECG・EDA・呼吸信号に対し、CNN-LSTMと深層学習＋生理学的特徴量のハイブリッドモデルを構築。学習に使っていない人物のみで評価し、ストレス検出**92.7%**、4状態の精度を初版の19%から**83%**へ改善。CI・Colab再現対応。
+2. **🩸 [ViT 血液細胞画像分類](https://github.com/PRaruj/vit-biomedical-finetuning)**: 4万6千枚超の顕微鏡画像で `google/vit-base-patch16-224` をファインチューニング。8クラスで**精度98.42%・マクロF1 98.13%**。
+3. **🏆 [ワールドカップ2026予測エンジン](https://github.com/PRaruj/worldcup_prediction_2026)**: 10,000回以上のモンテカルロシミュレーションによる確率的予測。ブライアースコア `0.178`、スペイン優勝を予測。
+4. **👁️ [Vision Transformer プロジェクト](https://github.com/Praruj/vision-transformer-projects)**: 知識蒸留でViTの精度を `11.6%` → `37.6%` に向上。DETRによるヘルメット検出（最終Loss `1.35`）。
 
-#### 👤 人物・バックグラウンド
-- 🎓 **学歴**: 京都先端科学大学 工学部 機械電気システム工学科 卒業（2025年）
-- 🗾 **歩み**: ネパール生まれ ➔ 京都で工学を専攻 ➔ 大阪でエンジニアとして活動中
-- 🎙️ **発信・コミュニティ**: ポッドキャスト「Guffadi Cast」元ホスト（2020〜2022）、2020年ロータラクトクラブ創設（会員30名）。
-- ✍️ **技術発信**: 自身のポートフォリオサイト（[prarujthapa.com.np/articles](https://www.prarujthapa.com.np/articles/)）にて機械学習の検証や技術記事を発信中。
+#### 👤 バックグラウンド
+- 🎓 京都先端科学大学 工学部 機械電気システム工学科 卒業（2025年）
+- 🗾 ネパール生まれ → 京都で工学を専攻 → 大阪でMLエンジニアとして活動中
+- 🎙️ ポッドキャスト「Guffadi Cast」元ホスト（2020〜2022）· 🤝 ロータラクトクラブ創設（2020年、会員30名）
+- ✍️ [ポートフォリオブログ](https://www.prarujthapa.com.np/articles/)で機械学習の検証記事を発信中
 
-📬 **Contact:** AI/MLエンジニア・データサイエンス職、共同研究、大学院進学の機会を積極的に探しています。ご連絡は [prarujthapa.com.np](https://prarujthapa.com.np/) または [LinkedIn](https://linkedin.com/in/prarujthapa) までお気軽にどうぞ！
+📬 AI/MLエンジニア・データサイエンス職、共同研究、大学院進学の機会を探しています。[prarujthapa.com.np](https://prarujthapa.com.np/) または [LinkedIn](https://www.linkedin.com/in/praruj-thapa/) からお気軽にご連絡ください。
 
 ---
 
-<div align="center">
-  <sub>Designed & Developed by Praruj Thapa · Osaka, Japan</sub>
-</div>
+<div align="center"><sub>Praruj Thapa · Osaka, Japan</sub></div>

@@ -10,6 +10,7 @@ AI, ML and data engineer at Fukushima Galilei in Osaka. I build systems that tur
 
 **Selected work**
 
+- [Industrial anomaly detection on the edge](https://github.com/Praruj/industrial-edge-anomaly): visual inspection and vibration monitoring, int8 at 89 ms per image on one CPU thread · [case study](https://www.prarujthapa.com.np/edge/)
 - [Stress detection from wearable sensors](https://github.com/Praruj/stress-detection): 92.7% accuracy on people the model never saw · [case study](https://www.prarujthapa.com.np/stress/)
 - [Blood-cell classification with a vision transformer](https://github.com/PRaruj/vit-biomedical-finetuning): 98.4% across eight cell types
 - [World Cup 2026 forecasts](https://github.com/PRaruj/worldcup_prediction_2026): Monte Carlo simulation, Brier score 0.178 · [live](https://www.prarujthapa.com.np/worldcup/worldcup.html)
@@ -41,6 +42,7 @@ AI, ML and data engineer at Fukushima Galilei in Osaka. I build systems that tur
 
 **主な取り組み**
 
+- [エッジで動く産業向け異常検知](https://github.com/Praruj/industrial-edge-anomaly)：外観検査と振動監視、int8化で1スレッド1枚89 ms · [解説](https://www.prarujthapa.com.np/edge/)
 - [ウェアラブルセンサーによるストレス検出](https://github.com/Praruj/stress-detection)：学習に使っていない人物で精度92.7% · [解説](https://www.prarujthapa.com.np/stress/)
 - [Vision Transformerによる血液細胞分類](https://github.com/PRaruj/vit-biomedical-finetuning)：8種類で精度98.4%
 - [ワールドカップ2026予測](https://github.com/PRaruj/worldcup_prediction_2026)：モンテカルロシミュレーション、ブライアースコア0.178 · [ライブ](https://www.prarujthapa.com.np/worldcup/worldcup.html)

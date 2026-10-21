@@ -10,6 +10,7 @@ AI, ML and data engineer at Fukushima Galilei in Osaka. I build systems that tur
 
 **Selected work**
 
+- [Decision phenotypes of addiction](https://github.com/Praruj/addiction-decision-phenotypes): computational psychiatry on 12,883 Iowa Gambling Task choices of heroin users, amphetamine users and controls; reinforcement-learning models (PVL-Delta, VPP, ORL) vs a GRU, which predicted unseen people's next 40 choices better than every psychology model (69% of people); plus an LLM agent playing the same task with and without chain-of-thought · [case study](https://www.prarujthapa.com.np/addiction/)
 - [Bilingual product search and recommendation](https://github.com/Praruj/bilingual-product-search): Japanese/English search on Amazon ESCI with BM25, multilingual E5, hybrid retrieval and reranking, then both models fine-tuned on ESCI: NDCG@10 0.595 (JA) / 0.576 (EN), up from 0.567 / 0.560 off the shelf; hybrid search 32 ms per query on CPU; also tested an open LLM (Qwen2.5-7B, free Colab) as a relevance judge: weak agreement with human labels (Cohen's κ 0.16–0.21), and a reranker distilled from its labels did worse than one trained on human labels · [case study](https://www.prarujthapa.com.np/search/)
 - [Industrial anomaly detection on the edge](https://github.com/Praruj/industrial-edge-anomaly): visual inspection and vibration monitoring, int8 at 89 ms per image on one CPU thread · [case study](https://www.prarujthapa.com.np/edge/)
 - [Stress detection from wearable sensors](https://github.com/Praruj/stress-detection): 92.7% accuracy on people the model never saw · [case study](https://www.prarujthapa.com.np/stress/)
@@ -22,7 +23,7 @@ AI, ML and data engineer at Fukushima Galilei in Osaka. I build systems that tur
 - [Detecting stress from wearable sensors, in people the model has never seen](https://www.prarujthapa.com.np/stress/)
 - [Why predictive maintenance models fail without domain constraints](https://www.prarujthapa.com.np/articles/predictive-maintenance-domain-constraints.html)
 
-<sub>Python · PyTorch · scikit-learn · time series · search &amp; recommendation · computer vision · RAG</sub><br>
+<sub>Python · PyTorch · scikit-learn · computational psychiatry · time series · search &amp; recommendation · computer vision · RAG</sub><br>
 <sub>Kyoto University of Advanced Science, B.E. 2025 · AWS Certified AI Practitioner</sub>
 
 [prarujthapa.com.np](https://prarujthapa.com.np/) · [LinkedIn](https://www.linkedin.com/in/praruj-thapa/) · [thapa.praruj@gmail.com](mailto:thapa.praruj@gmail.com)
@@ -43,6 +44,7 @@ AI, ML and data engineer at Fukushima Galilei in Osaka. I build systems that tur
 
 **主な取り組み**
 
+- [依存症の意思決定フェノタイプ](https://github.com/Praruj/addiction-decision-phenotypes)：ヘロイン使用者・アンフェタミン使用者・健常者によるアイオワ・ギャンブリング課題12,883回の選択で計算論的精神医学を実践。強化学習モデル（PVL-Delta・VPP・ORL）とGRUを比較し、GRUが未知の人物の次の40回の選択をすべての心理学モデルより正確に予測（69%の人物）。同じ課題を思考の連鎖あり・なしでプレイするLLMエージェントも構築 · [解説](https://www.prarujthapa.com.np/addiction/)
 - [日英バイリンガル商品検索・レコメンド](https://github.com/Praruj/bilingual-product-search)：AmazonのESCIデータでBM25・多言語E5・ハイブリッド検索・再ランキングを比較し、両モデルをESCIでファインチューニング。NDCG@10 0.595（日本語）・0.576（英語）（既製モデルでは0.567・0.560）、ハイブリッド検索はCPUで1クエリ32 ms。オープンLLM（Qwen2.5-7B、無料Colab）による関連度判定も検証し、人手ラベルとの一致は低く（κ 0.16〜0.21）、LLMラベルで学習した再ランキングは人手ラベル版に劣ることを確認 · [解説](https://www.prarujthapa.com.np/search/)
 - [エッジで動く産業向け異常検知](https://github.com/Praruj/industrial-edge-anomaly)：外観検査と振動監視、int8化で1スレッド1枚89 ms · [解説](https://www.prarujthapa.com.np/edge/)
 - [ウェアラブルセンサーによるストレス検出](https://github.com/Praruj/stress-detection)：学習に使っていない人物で精度92.7% · [解説](https://www.prarujthapa.com.np/stress/)

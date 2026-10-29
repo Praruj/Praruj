@@ -4,7 +4,7 @@
 
 ### Praruj Thapa
 
-AI/ML engineer and data scientist at Fukushima Galilei in Osaka. I build systems that turn noisy data into decisions people can trust; my current one flags equipment failures days before they happen.
+AI/ML engineer and data scientist at Fukushima Galilei. I build systems that turn noisy data into decisions people can trust; my current one flags equipment failures days before they happen.
 
 > *All models are wrong, but some are useful.* — George Box
 
@@ -34,7 +34,7 @@ AI/ML engineer and data scientist at Fukushima Galilei in Osaka. I build systems
 
 ### タパ プラルズ
 
-大阪のフクシマガリレイ株式会社で働くAI・機械学習エンジニア／データサイエンティスト。ノイズの多いデータを、信頼できる判断へと変えるシステムを作っています。
+フクシマガリレイ株式会社で働くAI・機械学習エンジニア／データサイエンティスト。ノイズの多いデータを、信頼できる判断へと変えるシステムを作っています。
 
 - **所属**: フクシマガリレイ株式会社（時系列異常検知システムを開発。設備の故障兆候を3〜4日前に検知）
 - **専門**: 時系列・センサーデータの機械学習、検索・レコメンド、Vision Transformer、モンテカルロシミュレーション、RAG・ローカルLLM

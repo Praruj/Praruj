@@ -25,7 +25,7 @@ AI/ML engineer and data scientist at Fukushima Galilei. I build systems that tur
 - [Why predictive maintenance models fail without domain constraints](https://www.prarujthapa.com.np/articles/predictive-maintenance-domain-constraints.html)
 
 <sub>Python · PyTorch · scikit-learn · computational psychiatry · time series · search &amp; recommendation · computer vision · RAG</sub><br>
-<sub>Kyoto University of Advanced Science, B.E. 2025 · AWS Certified AI Practitioner</sub>
+<sub>Kyoto University of Advanced Science, B.E. 2025 · AWS Certified AI Practitioner · AWS Certified Cloud Practitioner</sub>
 
 [prarujthapa.com.np](https://prarujthapa.com.np/) · [LinkedIn](https://www.linkedin.com/in/praruj-thapa/) · [thapa.praruj@gmail.com](mailto:thapa.praruj@gmail.com)
 
